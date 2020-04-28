@@ -1,2 +1,2 @@
 # web
-Web editörü dersi kaynak dosyaları
+Web editörü dersi Javascript kaynak dosyaları
